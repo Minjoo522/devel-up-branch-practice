@@ -34,3 +34,8 @@
 | <img src="https://avatars.githubusercontent.com/u/131349867?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/140090179?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/45223837?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/39932141?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/75781414?v=4" width="130" height="130"> |
 | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 |       [리브](https://github.com/Minjoo522/devel-up-branch-practice/blob/main/liv.md)       |      [릴리](https://github.com/Minjoo522/devel-up-branch-practice/blob/main/lily.md)       |     [로빈](https://github.com/Minjoo522/devel-up-branch-practice/blob/main/robin.md)      |      [아톰](https://github.com/Minjoo522/devel-up-branch-practice/blob/main/atom.md)      |    [구름](https://github.com/Minjoo522/devel-up-branch-practice/blob/main/gooreum.md)     |
+
+## 담당 코치
+
+- 구구💙
+- 공원💙
